@@ -5,7 +5,7 @@
 
 ## 🖼️ 팀 포스터
 <p align="center">
-  <img src="./poster.jpg" alt="LIFE - Follow Your Passion 팀 포스터" width="600">
+  <img src="./poster2.png" alt="LIFE - Follow Your Passion 팀 포스터" width="600">
 </p>
 
 <p align="center">
